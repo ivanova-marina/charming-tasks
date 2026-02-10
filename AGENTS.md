@@ -1,7 +1,7 @@
 # Charming Tasks — Agent Guide
 
 Quick orientation for contributors and future agents.
-This is a light ongoing project for me to learn and practice the deep aspects of React and Next.js
+This is a light ongoing project for me to learn and practice the deep aspects of React and Next.js.
 
 ## Stack
 
